@@ -63,3 +63,5 @@ ctx.fill();
 ctx.font = '48px serif'; 
 
 ctx.fillText('Hello world!', 20, 500);
+
+alert("i know git")
